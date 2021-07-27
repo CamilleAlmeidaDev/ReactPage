@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CamilleAlmeidaDev/ReactPage.git/static/css/main.4bbbb9ab.chunk.css",
+    "main.js": "/CamilleAlmeidaDev/ReactPage.git/static/js/main.9e0190fc.chunk.js",
+    "main.js.map": "/CamilleAlmeidaDev/ReactPage.git/static/js/main.9e0190fc.chunk.js.map",
+    "runtime-main.js": "/CamilleAlmeidaDev/ReactPage.git/static/js/runtime-main.5213bb4e.js",
+    "runtime-main.js.map": "/CamilleAlmeidaDev/ReactPage.git/static/js/runtime-main.5213bb4e.js.map",
+    "static/css/2.d26251b6.chunk.css": "/CamilleAlmeidaDev/ReactPage.git/static/css/2.d26251b6.chunk.css",
+    "static/js/2.2fa525cf.chunk.js": "/CamilleAlmeidaDev/ReactPage.git/static/js/2.2fa525cf.chunk.js",
+    "static/js/2.2fa525cf.chunk.js.map": "/CamilleAlmeidaDev/ReactPage.git/static/js/2.2fa525cf.chunk.js.map",
+    "static/js/3.ebaf7542.chunk.js": "/CamilleAlmeidaDev/ReactPage.git/static/js/3.ebaf7542.chunk.js",
+    "static/js/3.ebaf7542.chunk.js.map": "/CamilleAlmeidaDev/ReactPage.git/static/js/3.ebaf7542.chunk.js.map",
+    "index.html": "/CamilleAlmeidaDev/ReactPage.git/index.html",
+    "static/css/2.d26251b6.chunk.css.map": "/CamilleAlmeidaDev/ReactPage.git/static/css/2.d26251b6.chunk.css.map",
+    "static/css/main.4bbbb9ab.chunk.css.map": "/CamilleAlmeidaDev/ReactPage.git/static/css/main.4bbbb9ab.chunk.css.map",
+    "static/js/2.2fa525cf.chunk.js.LICENSE.txt": "/CamilleAlmeidaDev/ReactPage.git/static/js/2.2fa525cf.chunk.js.LICENSE.txt",
+    "static/media/IconArrecadacao.8edc7616.PNG": "/CamilleAlmeidaDev/ReactPage.git/static/media/IconArrecadacao.8edc7616.PNG",
+    "static/media/index.css": "/CamilleAlmeidaDev/ReactPage.git/static/media/rubik-latin-900italic.7f45ff04.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5213bb4e.js",
+    "static/css/2.d26251b6.chunk.css",
+    "static/js/2.2fa525cf.chunk.js",
+    "static/css/main.4bbbb9ab.chunk.css",
+    "static/js/main.9e0190fc.chunk.js"
+  ]
+}
